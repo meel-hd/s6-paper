@@ -1,7 +1,7 @@
 // Initial Config
 #set page(
         paper: "a4",
-        margin: (x: 70pt, y: 60pt),
+        margin: (x: 60pt, y: 50pt),
 )
 #set par(justify: true,leading: 1.4em)
 #set text(font: "New Computer Modern", hyphenate: false, size: 11pt)
@@ -61,34 +61,7 @@
         ~~ The similarity between Darija and Classical Arabic ends in vocabulary. It starts to deviate from Al-Fusha toward the Tamazight grammatical and phonological features @Rouchdy. The difference is appearing in the compression of vowels, a great divergence in its phonology, and unsimilar sentence structure (SVO #footnote[Subject-Verb-Object] as opposed to the VSO #footnote[Verb-Subject-Object] in Al-Fosha).
         == Gap
         ~~ While these studies provide valuable insights to the researcher on Darija, they stand short in presenting a practical framework that benefits the development of Darija. The Moroccan variety is understudied in its written forms. Plus there has been no attempt to test it with a completely new written system. So it is our duty to do so, as in this paper.
-\ \
-=  Progress Report: The New Written System
-        ~~ This section is only a demonstration of a new written system, that this
-        research is based on. Basically it is an alphabet designed specifically for
-        Darija. It will be used to test to what extent Moroccans are ready to use a
-        completely new written system. See the 3rd research question above.
-        ==  Design Choices and Characteristics
-                - It is an alphabet (contains consonants and vowels).
-                - The alphabet contains all sounds from Arabic plus Darija specific sounds like (v, g, and p).
-                - Contains only 3 vowels for simplicity (A, I, and O) where a bold dot can be added to lengthen them.
-                #figure(
-                        image("assets/vowels.svg", width: 30%),
-                        caption: [Vowels and long vowels. \ \ ]
-                )
-                - Previously it was intended to be written from right to left (RTL) like Arabic (see the figure below).
-                #figure(
-                        image("assets/rtl.png", width: 60%),
-                        caption: [A sentence written from RTL. \ \ ]
-                )
-                But a decision has been made to use it from left to right (in progress)because it will be easy and familiar on digital devices. I don’t use Arabic on my phone because it makes me dizzy where everything in the user interface is flipped 180 degrees.
-
-                #figure(
-                        image("assets/full.png", width: 50%),
-                        caption: [The full alphabet. \ \ ]
-                )
-                - visit https://darija-demo.vercel.app for the full reference and where you can try to write using this alphabet (It doesn't contain all vowels yet, also it will be LTR based, as was mentioned previously.).
-
 
 // Bibliography
-\ \ \
+#pagebreak()
 #bibliography("refs.bib")
