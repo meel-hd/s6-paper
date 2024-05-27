@@ -137,7 +137,7 @@
 
         #figure(
                 image("assets/vowels.svg", width: 50%), 
-                caption: "Vowels: 3 short +  3 long.s"
+                caption: "Vowels: 3 short +  3 long."
         )
         \ 
         ~~ There are only 3 vowels for simplicity. When a dark dot added they are lengthened.
@@ -161,7 +161,7 @@
 == Research Setting, Population, and Sample
         ~~ This study was conducted in Morocco. Because, when speaking about Darija it is mainly concerned with the Morocco region in North Africa. The population of this study consisted of Moroccans, between the age of 5 and 70 years old, with the will to participate.
 
-        ~~ A convenient sample of 64 people was selected. This sample included a diverse set of Moroccans with different ethnicities, ages, and language preferences. But, unified with the use of Darija in everyday interactions. Available participants were handed an online questionnaire to fill during a period of 7 days. Participants included in the sample were selected because they met this selection criteria. That they are Moroccan residents, between the age of 5 and 70, mentally sound, willing to participate, and of any sex or any race.
+        ~~ A convenient sample of 63 people was selected. This sample included a diverse set of Moroccans with different ethnicities, ages, and language preferences. But, unified with the use of Darija in everyday interactions. Available participants were handed an online questionnaire to fill during a period of 7 days. Participants included in the sample were selected because they met this selection criteria. That they are Moroccan residents, between the age of 5 and 70, mentally sound, willing to participate, and of any sex or any race.
 
 == Data Collection Instrument and Procedure
         ~~ A questionnaire was chosen to collect data. That will help evaluate Moroccans attitudes and perceptions about the current written forms of Darija and the new written system we created. A questionnaire was used because it allows high response volumes, requires less energy and time to administer, anonymous, less biased, and easy to compare responses.
@@ -183,12 +183,107 @@
         ~~ Anonymity and confidentiality guidelines were followed throughout the course of the study. The participants cannot be linked, even by the researcher, with their responses. In this study anonymity was proven by not collecting participants names on the questionnaire and protecting their emails with industry standards to not be used for any purpose except for data validation.
 
 == Data Analysis
-        ~~ After  the  data  was  collected  and  organized  it was  analyzed.  For  analysis  of  closed-ended  questions,  a computer programme called Statistical Package for Social Sciences (SPSS) was used. Data was analyzed by using descriptive statistics. Frequency tables were drawn and from these the data was presented in pie diagrams and bar graphs.
+        ~~ After  the  data  was  collected  and  organized  it was  analyzed.  For  analysis  of  closed-ended  questions,  a computer programme called Google Sheets was used. Data was analyzed and presented in pie diagrams and bar graphs.
 
 == Conclusion
-        ~~ We used a quantitative, descriptive survey design. Three  questionnaires  were  handed in English, Arabic, and French to the participants. To collect the data from a convenient sample of 64 subjects. The questionnaires had closed questions.  The  sample  characteristics  included  Moroccans  who  were  mentally sound and use Darija daily, and were willing to participate.
+        ~~ We used a quantitative, descriptive survey design. Three  questionnaires  were  handed in English, Arabic, and French to the participants. To collect the data from a convenient sample of 63 subjects. The questionnaires had close ended questions.  The  sample  characteristics  included  Moroccans  who  were  mentally sound and use Darija daily, and were willing to participate.
 
-        ~~ Consent  was obtained  from  the  participants.  Anonymity,  self-determination  and  confidentiality  were  ensured during  administration  of  the  questionnaires  and  in report  writing.  Questionnaires  were  distributed  to  subjects online using Google Forms to ensure validity.
+        ~~ Consent  was obtained  from  the  participants.  Anonymity,  self-determination  and  confidentiality  were  ensured during  administration  of  the  questionnaires  and  in report  writing.  Questionnaires  were  distributed  to  subjects online using Google Forms. Data collected for a period of 7 days. Then organized, translated, and transformed into diagrams and charts.
+        #pagebreak()
+
+// SECTION: Findings
+= Findings
+        ~~ Responses on our questionnaire produced 18 charts and diagrams.
+
+        == Result One
+        #figure(image("assets/charts/1-Gender.svg", width: 90%), caption: "Participants's gender.")
+
+        ~~ Participants' gender was symmetric. Roughly, half females, and half males.
+
+        == Result Two
+        #figure(image("assets/charts/2-Age.svg", width: 90%), caption: "A pie chart showing participants' age.")
+        ~~ Most of respondents age between 21 and 30 years old. Followed by a modest amount less than 20 years old. And a small fraction between 31 and 40. And none aged 41 or more.
+
+        == Result Three
+        #figure(image("assets/charts/3.svg", width: 88%), caption: "A pie chart showing Darija importance for Moroccans' identity.")
+        ~~ The majority considers Darija is very important to their Moroccan identity. A notable portion of participants considers it important to somewhat important. While no one indicated it is not important for their Moroccanness.
+
+        == Result Four
+        #figure(image("assets/charts/4.svg", width: 88%), caption: "A pie chart presenting Moroccans's conception of Darija.")
+        ~~ Almost half of respondents think Darija is a language. A modest minority is unsure. The rest thinks Darija is not a language.
+
+        == Result Five
+        #figure(image("assets/charts/5.svg", width: 90%), caption: "A pie chart presenting Moroccans's comfort in writing Darija in Arabic.")
+        ~~ The majority feels somewhat comfortable, comfortable, to very comfortable in writing Darija using Arabic. While a small minority is not comfortable at all.
+
+        == Result Six
+        #figure(image("assets/charts/6.svg", width: 90%), caption: "A pie chart showing if Moroccans think Arabic is suitable for Darija.")
+        ~~ A third thinks Arabic is suitable for Darija. The second third thinks it is not. While a third is unsure.
+
+        == Result Seven
+        #figure(image("assets/charts/7.svg", width: 85%), caption: "A pie chart showing why Arabic isn't suitable for Darija.")
+        ~~ A third thinks Arabic is suitable for Darija as presented in the previous result. The second third thinks it is not suitable for Darija because of the missing sounds. A minority also thinks it is not suitable because of the different vocabulary. And some others also thinks it hurts the Moroccan identity.
+
+        == Result Eight
+        #figure(image("assets/charts/8.svg", width: 85%), caption: "A pie chart presenting Moroccans's comfort in writing Darija in Latin.")
+        ~~ The majority stated they are somewhat comfortable, to very comfortable in using Latin for writing Darija. While only a minority are not comfortable at all.
+
+        == Result Nine
+        #figure(image("assets/charts/9.svg", width: 90%), caption: "A pie chart showing if Moroccans think Latin is suitable for Darija.")
+        ~~ Almost half thinks Latin is suitable for Darija. A third thinks it is not. The rest is unsure.
+
+        == Result Ten
+        #figure(image("assets/charts/10.svg", width: 90%), caption: "A pie chart showing why Latin isn't suitable for Darija.")
+        ~~ A significant portion thinks Latin is suitable, same as in the previous result. But, almost a half thinks Latin is not suitable for Darija because it has missing sounds. And a minority thinks it is not suitable because it hurts the Moroccan identity.
+
+        == Result Eleven
+        #figure(image("assets/charts/11.svg", width: 74%), caption: "A pie chart showing opinion about the benefit of Morocco from the adoption of a new written system.")
+        ~~ The biggest third are neutral. The second biggest third agree with the statement that Morocco would benefit from adopting a new written system for Darija.  The rest minority disagree to strongly disagree with this statement.
+
+        == Result Twelve
+        #figure(image("assets/charts/12.png", width: 85%), caption: "A bar chart showing the features of a new written system if to be developed.")
+        ~~ A large portion wants the new system to be phonetically accurate, easy to learn and read, and reflects the Moroccan identity. And also compatible with existing technologies, but not stressed on the same as the aforementioned features.
+
+        == Result Thirteen
+        #figure(image("assets/charts/13.svg", width: 90%), caption: "A pie chart showing the interest in trying a new written system.")
+        ~~ The majority showed interest in trying the new written system. But, only a minority did not.
+
+        == Result Fourteen
+        #figure(image("assets/charts/14.svg", width: 100%), caption: "A pie chart about how the participants found the new written system.")
+        ~~ Opinions were not so apparent. But the first biggest portion found  it somewhat easy to very easy. While the second largest portion found somewhat difficult to very difficult. The rest were neutral.
+
+        == Result Fifteen
+        #figure(image("assets/charts/15.svg", width: 95%), caption: "A pie chart representing if the new written system was intuitive, according to participants.")
+        ~~ Half said the new written system was intuitive. A quarter were unsure. The rest quarter said the new written system was not intuitive.
+
+        == Result Sixteen
+        #figure(image("assets/charts/16.svg", width: 90%), caption: "A pie chart showing participants ability to read in the new written system.")
+        ~~ The majority were able to read words using the new written system. A third were not, but mentioned they could learn with practice.
+
+        == Result Seventeen
+        #figure(image("assets/charts/17.svg", width: 90%), caption: "A pie chart showing participants comfort using the new written system compared to the old ones.")
+        ~~ The majority were uncomfortable using the new written system in comparison to using Arabic or Latin. A minority stated it was on similar comfort. While the rest stated they were comfortable.
+
+        == Result Eighteen
+        #figure(image("assets/charts/18.png", width: 90%), caption: "A bar chart showing the features of the new written system, according to participants.")
+        ~~ The majority of choices were that the new written system represents Darija sounds accurately, and that it seems clear and visually distinct. Followed by choices on that it feels appropriate for the Moroccan culture, and easy to learn and read. The least of choices were on that it works well with existing technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // SECTION: Bibliography
@@ -258,7 +353,7 @@
                 - Different vocabulary
                 - Hurts the Moroccan identity
                 - No, Arabic is suitable
-                - Other: .....
+                - Other: ...
                 \
 
                 #text(weight: "bold")[How comfortable are you in reading and writing Darija in the Latin alphabet (ABCDEF...)?]
@@ -279,7 +374,7 @@
                 - Different vocabulary
                 - Hurts the Moroccan identity
                 - No, Latin is suitable for Darija
-                - Other: ......
+                - Other: ...
                 \
 
                 #text(weight: "bold")[In your opinion, would adopting a new writing system for Darija be beneficial for Morocco?]
@@ -295,7 +390,7 @@
                 - Phonetically accurate (compatible with all sounds of Darija)
                 - Reflects Moroccan culture and identity
                 - Compatible with existing technologies
-                - Other: ......
+                - Other: ...
                 \
 
                 #text(weight: "bold")[We have developed one would you like trying it?]
@@ -343,7 +438,7 @@
                 - Seems clear and visually distinct
                 - Feels appropriate for Moroccan culture
                 - Works well with existing technologies (computers, displays)
-                - Other: ......
+                - Other: ...
                 \
 
                 #text(weight: "bold")[Do you have any suggestions for improvement for this new alphabet]
