@@ -8,7 +8,7 @@
 
 // Extra Information
 #grid(
-        figure(image("assets/umi.png"),)
+        figure(image("assets/umi.svg"),)
 )
 /// SECTION: Cover Page
 #align(center)[
@@ -32,7 +32,7 @@
 )
 #align(center)[
         #set par(justify:false)
-        #set text(size: 10pt, weight: "bold")
+        #set text(size: 10pt, weight: "semibold")
         \ \ \
         This Monograph is Submitted in Partial Fulfillment of the Requirements \ of a BA Degree in English Studies.
         \ 
@@ -41,7 +41,7 @@
         #set par(justify:false)
         #set text(size: 10pt, weight: "bold")
         \ \ \ \ \ \ \ \ \ \ 
-        Academic Year: 2023/2024
+        June, 2024
         \ 
 ]
 #pagebreak()
@@ -238,10 +238,10 @@
 
         == Result Eleven
         #figure(image("assets/charts/11.svg", width: 74%), caption: "A pie chart showing opinion about the benefit of Morocco from the adoption of a new written system.")
-        ~~ The biggest third are neutral. The second biggest third agree with the statement that Morocco would benefit from adopting a new written system for Darija.  The rest minority disagree to strongly disagree with this statement.
+        ~~ The biggest third are neutral. The second biggest third agree with the statement that Morocco would benefit from adopting a new written system for Darija.  The rest disagree to strongly disagree with this statement.
 
         == Result Twelve
-        #figure(image("assets/charts/12.png", width: 85%), caption: "A bar chart showing the features of a new written system if to be developed.")
+        #figure(image("assets/charts/12.svg", width: 85%), caption: "A bar chart showing the features of a new written system if to be developed.")
         ~~ A large portion wants the new system to be phonetically accurate, easy to learn and read, and reflects the Moroccan identity. And also compatible with existing technologies, but not stressed on the same as the aforementioned features.
 
         == Result Thirteen
@@ -265,7 +265,7 @@
         ~~ The majority were uncomfortable using the new written system in comparison to using Arabic or Latin. A minority stated it was on similar comfort. While the rest stated they were comfortable.
 
         == Result Eighteen
-        #figure(image("assets/charts/18.png", width: 90%), caption: "A bar chart showing the features of the new written system, according to participants.")
+        #figure(image("assets/charts/18.svg", width: 90%), caption: "A bar chart showing the features of the new written system, according to participants.")
         ~~ The majority of choices were that the new written system represents Darija sounds accurately, and that it seems clear and visually distinct. Followed by choices on that it feels appropriate for the Moroccan culture, and easy to learn and read. The least of choices were on that it works well with existing technologies.
 
 
