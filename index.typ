@@ -4,7 +4,7 @@
 #set text(font: "New Computer Modern", hyphenate: false, size: 11pt)
 #set heading(numbering: "I.")
 #set footnote.entry(separator: repeat[.])
-#set bibliography(style: "apa")
+#set bibliography(style: "mla")
 
 // Extra Information
 #grid(
@@ -13,8 +13,8 @@
 /// SECTION: Cover Page
 #align(center)[
         #set par(justify:false)
-        #set text(size: 22pt)
-        \ \ \ 
+        #set text(size: 24pt)
+        \ \ \ \
         Investigating Moroccans' Interest in Adopting a New Written System  for Darija
         \ \
 ]
@@ -40,7 +40,7 @@
 #align(center)[
         #set par(justify:false)
         #set text(size: 10pt, weight: "bold")
-        \ \ \ \ \ \ \ \ \ \ 
+        \ \ \ \ \ \ \
         June, 2024
         \ 
 ]
@@ -54,7 +54,7 @@
         \ \ \ \ \ \ \ \ \ \ \ \ 
         = Acknowledgments
 ]
-~~ I would like to express my sincere gratitude to Moulay Ismail University and Professor Hicham Laabidi for their invaluable support throughout this research project. Professor Laabidi's guidance and encouragement were instrumental, and his expertise greatly shaped this research. I would also like to extend my thanks to the research participants whose contributions were vital to this study.
+~~ I would like to express my sincere gratitude to my professors at Moulay Ismail University, especially Professor Hicham Laabidi, for their invaluable support throughout this research project. This project was a serious commitment of time and energy. Professor Laabidi's guidance and encouragement were instrumental, and his expertise greatly shaped this research. I would also like to extend my thanks to the research participants whose contributions were vital to this study.
 #pagebreak()
 
 // Dedications
@@ -102,13 +102,13 @@
                 - Lay foundation for further investigation on the written forms of Darija.
                 - Help concerned bodies test the feasibility of standardizing a written system.
         == Questions
-                - In what form most Moroccans write Darija(in the Latin or the Arabic script)?
+                Given Darija is written using two forms, either with Latin or Arabic:
                 - Do Moroccans face problems with these current written forms?
                 - To what extent Moroccans are ready to adopt a completely new written system?
         == Hypothesis
         ~~ Current written forms of Darija are problematic, Moroccans want a completely new written system for Darija.
         == Structure of Study
-        ~~#lorem(150)
+        ~~ Our study is divided into six sections to comprehensively explore Darija's current written forms. The first section, _Introduction_, provides essential background information on the issue and outlines the specific research questions and purpose that guides this investigation.  Following this, the _Literature Review_ section synthesizes relevant research on Darija,  and identifying any gaps in knowledge that this study aims to address.  The third section, _Methodology_, delves into the research design we employed. Here, we detail the  method used for data collection and the data analysis technique chosen to examine the research questions.  The fourth section, _Findings_, presents the research results in a concise manner.  The fifth section, _Discussion_, interprets the meaning of these results in light of the existing literature.  Finally, the sixth and concluding section, _Conclusion and Recommendations_, offers a summary of the key findings, along with a discussion of their broader implications. We will also acknowledge any limitations of the study and propose recommendations for future research endeavors that can build upon our findings. 
 
 \
 = Literature Review
@@ -126,7 +126,7 @@
         == Standardization
         ~~ Language standardization, as in language policy and planing, is the process of elevating a language variety to a standard form @Haugen1966. Through a four stage process: _selection_ of the variety to elevate to a standard,  _codification_ of its rules by creating documentations, dictionaries, and grammar books, _elaboration of function_ in various domains (i.e. education, media, administration, literature, etc.), and at last the _acceptance_ of the developed variety by the mass speech community it is designed for @Haugen1982. While this process my seem ideal and effortless to the recipient and happens naturally, it is not. It requires coordinated effort from various actors and involvement of multiple parties. Otherwise, the result is undesired to the speakers of the unstandardized variety as stated by @Crystal2000.
 
-        ~~ Darija is an unstandardized. And debates are rising, whether it is a language or a dialect. We argue it is a language. Because it has unique grammatical features and different phonology than the argued parent variety _Standard Arabic_. Moreover, while Darija seem to have a rich culture; it does not have a standard written system. Which puts it in an awkward position toward its standardization.
+        ~~ Darija is unstandardized. And debates are rising, whether it is a language or a dialect. We argue it is a language. Because it has unique grammatical features and different phonology than the argued parent variety _Standard Arabic_. Moreover, while Darija seem to have a rich culture; it does not have a standard written system. Which puts it in an awkward position toward its standardization.
 
         == A New Written System
         ~~ There are three types of written systems @Forrester. One, _logographic_, where full words or ideas are represented by a shape. Two, _syllabic_, where an individual item (letter or shape) represents a syllable. And three, _alphabetic_,  where each letter represents a phoneme (sound). All contemporary written systems sits in one of these categories. In example, Chinese is logographic, the Vai script, used in Liberia, is syllabic, and Latin is alphabetic. Though, other written systems use more than one. As Japanese, which is composed of three scripts, two syllabic (Hiragana and Katakana), and one is logographic, the Kanji. All of these systems proved their correctness and usefulness in representing  language in a written form, yet they vary in difficulty of learning. Logographic being the hardest and alphabetic the easiest @Forrester.
@@ -149,7 +149,7 @@
         \
         ~~ The coding behind this alphabet is following the exact coding of the Arabic alphabet. Similar letters in Arabic are similar in this alphabet too. This makes it easy to learn and remember for the seeker familiar with the Arabic alphabet. In addition, it includes the missing sounds (or non standard ones) used by Darija and absent in Arabic.
 
-        ~~ This was created to test to what extent Moroccans are ready to adopt a completely new written system, as in the 3rd research question. This alphabet is used for writing Darija mimicking a native script. An online keyboard and a quiz were made to test if the participants in this research will be able to read and write using it (more about this in the _Methodology_ Section).
+        ~~ This was created to test to what extent Moroccans are ready to adopt a completely new written system, as in the 2nd research question. This alphabet is used for writing Darija mimicking a native script. An online keyboard and a quiz were made to test if the participants in this research will be able to read and write using it (more about this in the _Methodology_ Section).
 
 \ 
 = Methodology
@@ -193,7 +193,7 @@
 
 // SECTION: Findings
 = Findings
-        ~~ Responses on our questionnaire produced 18 charts and diagrams.
+        ~~ Our findings are organized into 18 results. Each with correspondence to a questionnaire question.
 
         == Result One
         #figure(image("assets/charts/1-Gender.svg", width: 90%), caption: "Participants's gender.")
@@ -269,11 +269,12 @@
         ~~ The majority of choices were that the new written system represents Darija sounds accurately, and that it seems clear and visually distinct. Followed by choices on that it feels appropriate for the Moroccan culture, and easy to learn and read. The least of choices were on that it works well with existing technologies.
 
 
+// SECTION: Discussion
+\
+= Discussion
+~~ This study confirms that Darija gives a sense of identity to Moroccans, as was stated by @Caubet. Also the current written forms are thought to be enough and suitable for Darija, yet  not perfect. The speakers face troubles with the incompleteness of the Latin and the Arabic scripts as a writing method for Darija. Due to the missing sounds and identity issues concerning the use of these scripts. Moreover, it was shown if a new writing system were to be developed preferably it should be complete for representing Darija, easy to learn and read, and reflects the Moroccan identity while being compatible with existing technologies.
 
-
-
-
-
+~~ There was a substantial interest in trying the new written system. Despite that, results weren't that clear to draw a firm conclusion about the easiness of the new alphabet. Maybe because of the limited exposure to the alphabet or lack practical use on a daily basis. The new writing system was thought to be a complete form suitable for Darija. Showing the effect of using a thoughtful and inherently complete design for its writing. 
 
 
 
@@ -398,9 +399,9 @@
                 - No
                 \
                 
-                #text(weight: "bold", size: 18pt)[Section 2: Trying the new written system]
+                #text(weight: "bold", size: 18pt)[Section 2: Trying the new writing system]
                 
-                Please visit this #link("https://darija-quiz.vercel.app/")[new written system demo] (https://darija-quiz.vercel.app/). Then comeback and tell us what you think about it.
+                Please visit this #link("https://darija-quiz.vercel.app/")[new writing system demo] (https://darija-quiz.vercel.app/). Then comeback and tell us what you think about it.
                 \
 
                 #text(weight: "bold")[After trying the new alphabet for Darija, how easy did you find it to learn the basic characters?]
