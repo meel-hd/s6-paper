@@ -196,21 +196,21 @@
         ~~ Data collected, presented with great details in #link(<appendix_six>)[[Appendix VI]],  gave four key findings.
 
         == First Finding
-        #figure(image("assets/charts/findings/1.svg", width: 70%), caption: "A pie chart showing Darija importance for Moroccans' identity.")
+        #figure(image("assets/charts/findings/1.svg", width: 70%), caption: "A pie chart showing the importance of Darija for Moroccans' identity.")
         ~~ This chart shows the result from the 3rd question of the questionnaire asking about the importance of Darija for the Moroccan identity. All participants think that Darija is somewhat important to very important for their identity. This was previously labeled by @Caubet as the sense of Moroccanness. 
 
         == Second Finding
         #figure(image("assets/charts/findings/2.svg", width: 75%), caption: "A bar chart presenting why the current scripts are not suitable.")
-        ~~ It shows the number of participants' choices of why the current used scripts are not suitable for Darija. The majority of participants think the current scripts are not suitable because of the missing sounds, hurting the Moroccan identity, and the differences in vocabulary. On contrary, the rest thinks the current scripts are suitable for Darija This shows that while it is thought that the current writing methods of Darija are enough, there are big issues with them seeking improvement.
+        ~~ It shows the number of participants' choices of why the current used scripts are not suitable for Darija. The majority of participants think the current scripts are not suitable because of the missing sounds, misrepresenting the Moroccan identity, and the differences in vocabulary. On the contrary, the rest thinks the current scripts are suitable for Darija This shows that while it is thought that the current writing methods of Darija are enough, there are big issues with possible improvements.
 
         == Third Finding
         #figure(image("assets/charts/findings/3.svg", width: 67%), caption: "A bar chart showing the desired features of a new script if to be developed.")
-        ~~ There is a substantial stress on that the new script should be complete for representing Darija, easy to learn and read, and reflects the Moroccan culture and identity. Also it should be compatible with existing technologies. The new script we developed seems to meet the first desired feature #link(<res_18>)[[See Appendix VI: Result 18]]. Yet needs improvement on the other aspects of easiness and compatibility with existing technologies #link(<res_14>)[[See Appendix VI: Result 14]]
+        ~~ There is a substantial stress on that the new script should be complete for representing Darija, easy to learn and read, and reflects the Moroccan culture and identity. Also, it should be compatible with existing technologies. The new script we developed seems to meet the first desired feature #link(<res_18>)[[See Appendix VI: Result 18]]. Yet needs improvement on the other aspects of easiness and compatibility with existing technologies #link(<res_14>)[[See Appendix VI: Result 14]]
 
         == Fourth Finding
         #figure(image("assets/charts/findings/4.svg", width: 60%), caption: "A bar chart showing the comfort level in using the new script in comparison to the old ones.")
         
-        ~~ The majority were uncomfortable using the new written system in comparison to using Arabic or Latin. A minority stated it was on similar comfort. While the rest stated they were comfortable. Indicating lack of interest in using the script instead of the more developed and agreed upon Latin and Arabic scripts.
+        ~~ The majority were uncomfortable using the new written system in comparison to using Arabic or Latin. A minority stated it was on similar comfort level. While the rest stated they were comfortable. Indicating lack of interest in using the script instead of the more developed and agreed upon Latin and Arabic scripts.
         
 
 
