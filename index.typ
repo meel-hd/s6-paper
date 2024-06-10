@@ -4,7 +4,7 @@
 #set text(font: "New Computer Modern", hyphenate: false, size: 11pt)
 #set heading(numbering: "I.")
 #set footnote.entry(separator: repeat[.])
-#set bibliography(style: "mla")
+#set bibliography(style: "apa")
 
 // Extra Information
 #grid(
@@ -108,7 +108,7 @@
         == Hypothesis
         ~~ Current written forms of Darija are problematic, Moroccans want a completely new written system for Darija.
         == Structure of Study
-        ~~ Our study is divided into six sections to comprehensively explore Darija's current written forms. The first section, _Introduction_, provides essential background information on the issue and outlines the specific research questions and purpose that guides this investigation.  Following this, the _Literature Review_ section synthesizes relevant research on Darija,  and identifying any gaps in knowledge that this study aims to address.  The third section, _Methodology_, delves into the research design we employed. Here, we detail the  method used for data collection and the data analysis technique chosen to examine the research questions.  The fourth section, _Findings_, presents the research results in a concise manner.  The fifth section, _Discussion_, interprets the meaning of these results in light of the existing literature.  Finally, the sixth and concluding section, _Conclusion and Recommendations_, offers a summary of the key findings, along with a discussion of their broader implications. We will also acknowledge any limitations of the study and propose recommendations for future research endeavors that can build upon our findings. 
+        ~~ Our study is divided into six sections to comprehensively explore Darija's current written forms. The first section, _Introduction_, provides essential background information on the issue and outlines the specific research questions and purpose that guides this investigation.  Following this, the _Literature Review_ section synthesizes relevant research on Darija,  and identifying any gaps in knowledge that this study aims to address.  The third section, _Methodology_, delves into the research design we employed. Here, we detail the  method used for data collection and the data analysis technique chosen to examine the research questions.  The fourth section, _Findings_, presents the research results in a concise manner.  The fifth section, _Discussion_, interprets the meaning of these results in light of the existing literature.  Finally, the sixth and concluding section, _Conclusion and Recommendation_, offers a summary of the key findings, along with a discussion of their broader implications. We will also acknowledge any limitations of the study and propose recommendation for future research endeavors that can build upon our findings. 
 
 \
 = Literature Review
@@ -217,13 +217,20 @@
 
 // SECTION: Discussion
 = Discussion
-~~ This study confirms that Darija gives a sense of identity to Moroccans, as was stated by @Caubet. Also the current written forms are thought to be enough and suitable for Darija, yet  not perfect. The speakers face troubles with the incompleteness of the Latin and the Arabic scripts as a writing method for Darija. Due to the missing sounds and identity issues concerning the use of these scripts. Moreover, it was shown if a new writing system were to be developed preferably it should be complete for representing Darija, easy to learn and read, and reflects the Moroccan identity while being compatible with existing technologies.
+~~ This study confirms that Darija gives a sense of identity to Moroccans, as was stated by @Caubet. Also the speakers face troubles with the incompleteness of the Latin and the Arabic scripts as a writing method for Darija. Due to the missing sounds and identity issues concerning the use of these scripts.  The current written forms are thought to be enough and suitable for Darija, yet  not perfect. Moreover, it was shown if a new writing system were to be developed preferably it should be complete for representing Darija, easy to learn and read, and reflects the Moroccan identity while being compatible with existing technologies. So any attempts of dealing with these issues should consider these demands and needs for a complete, and fulfilling form.
+\
+~~ While a significant portion of the participants expressed interest in trying the new writing system, the results regarding its comfort of use in comparison to other writing methods were negative. This might be attributed to limited exposure or a lack of practical everyday use. Nevertheless, the participants generally perceived the new system as a complete and suitable representation of Darija, highlighting the effectiveness of a well-designed and inherently comprehensive writing system.
+\
+~~ *Key takeaway:* Developing a new writing system for Darija that gains widespread acceptance necessitates a comprehensive approach that addresses the identified needs and preferences. The script should be complete, user-friendly, reflective of Moroccan identity, and technologically compatible. Future efforts should build upon these findings to create a solution that resonates with the Moroccan people.
 
-~~ There was a substantial interest in trying the new written system. Despite that, results weren't that clear to draw a firm conclusion about the easiness of the new alphabet. Maybe because of the limited exposure to the alphabet or lack practical use on a daily basis. The new writing system was thought to be a complete form suitable for Darija. Showing the effect of using a thoughtful and inherently complete design for its writing. 
-
-
-
-
+== Conclusion and Recommendation
+~~ This study investigated Moroccans' interest in adopting a new written system for Darija. The findings reveal a complex interplay between identity, practicality, and potential change.
+\
+~~ The study confirms the strong connection between Darija and Moroccan identity, aligning with previous research by @Caubet. This reinforces the importance of a writing system that reflects this unique cultural element. Also, participants acknowledged the shortcomings of using Arabic and Latin scripts for Darija. These scripts struggle to represent all Darija sounds and lack a clear connection to Moroccan identity. While some participants felt current writing methods were sufficient, they expressed a desire for improvement. The ideal new script, as envisioned, should be comprehensive, user-friendly, and embody Moroccan identity while remaining technologically compatible. Our proposed script demonstrated success in comprehensively representing Darija, but further development is needed for ease of use and technological integration. But despite interest in trying it, user comfort fell short compared to established scripts like Arabic and Latin. Widespread adoption requires significant development efforts to create a solution that is not only functional but also resonates with the Moroccan public. The standardization process is complex, and handcrafted solutions often face limitations. Future endeavors should involve broader collaboration and address the identified needs for a complete and culturally fulfilling writing system.
+\
+~~ In conclusion, this study lays the groundwork for further exploration of a new writing system for Darija. By understanding the desires and challenges, future efforts can create a solution that fosters a sense of Moroccan identity while offering a practical and user-friendly writing method for Darija.
+\ \
+*Recommendation:* Moroccans are exposed to 3 different scripts (Arabic, Latin, and Tifinagh) introducing a new one is highly not recommended. And given that we have tested Latin and Arabic as writing methods for Darija, they are not ideal. We advise further investigation on using _Tifinagh_ as a method for writing Darija.
 
 
 
