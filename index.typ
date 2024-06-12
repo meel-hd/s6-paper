@@ -220,6 +220,8 @@
 \
 ~~ While a significant portion of the participants expressed interest in trying the new writing system, the results regarding its comfort of use in comparison to other writing methods were negative. This might be attributed to limited exposure or a lack of practical everyday use. Nevertheless, the participants generally perceived the new system as a complete and suitable representation of Darija, highlighting the effectiveness of a well-designed and inherently comprehensive writing system.
 \
+~~ I hypothesized that the current written forms of Darija are problematic and Moroccans want a completely new written system. However, the results did not support this hypothesis. In fact, while the current written forms of Darija are not perfect they are thought to be enough. Moreover, Moroccans are not ready to adopt a completely new written system. This suggest that there may be other factors influencing interest in such an idea.
+\
 ~~ *Key takeaway:* Developing a new writing system for Darija that gains widespread acceptance necessitates a comprehensive approach that addresses the identified needs and preferences. The script should be complete, user-friendly, reflective of Moroccan identity, and technologically compatible. Future efforts should build upon these findings to create a solution that resonates with the Moroccan people.
 
 = Conclusion and Recommendation
