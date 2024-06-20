@@ -80,7 +80,9 @@
         \ \ \ \ \ \ \ \
         = Abstract
 ]
-~~#lorem(200)
+// ~~#lorem(200)
+~~ Darija has widespread adoption in Morocco but it does not have a native script. This paper assesses the public’s current perception of the current non standard written forms of Darija using Latin and Arabic. And measures interest in adopting a completely new writing script instead. This was achieved through the collection and measurement of opinions about the current written forms and the newly created writing script. We found that *the current written forms are thought to be enough, but not perfect*. Especially in their inherent incompleteness for representing Darija. Also we found *adopting a new written system is undesired by Moroccans*. This was done in order to lay ground for further research on the written forms of Darija and help concerned parties test possibility of making a standard form.
+
 #pagebreak()
 
 // Outline
